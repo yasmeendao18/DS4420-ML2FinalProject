@@ -20,16 +20,11 @@ rare_df.to_csv('rare_df.csv', index=False)
 
 
 # Get reduced data set for submission
-df["DIAGNOSIS"].value_counts()
-
-import pandas as pd
-
-# Assuming `final_df` is already loaded
 
 # Set the target sample size per category
 sample_size = 200
 
-# Create a new reduced DataFrame by sampling 1000 rows for each diagnosis
+# Create a new reduced DataFrame by sampling 200 rows for each diagnosis
 reduced_df = pd.concat([
     df[df['DIAGNOSIS'] == diagnosis].sample(n=sample_size, random_state=42)
     for diagnosis in df['DIAGNOSIS'].unique()
