@@ -10,5 +10,5 @@ Neural Network Files Included:
 - neural_network_top_3.py (RNN for top 3 diagnoses identified)
   
 Data Files Included:
-- reduced_data.py (smaller dataset for testing)
+- final_df.csv (smaller dataset for testing)
 - rare_df.csv (dataset used for testing)
