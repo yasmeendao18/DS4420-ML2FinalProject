@@ -11,4 +11,4 @@ Neural Network Files Included:
   
 Data Files Included:
 - reduced_data.py (smaller dataset for testing)
-- rare_df.csv (dataset used for one RNN file)
+- rare_df.csv (dataset used for testing)
