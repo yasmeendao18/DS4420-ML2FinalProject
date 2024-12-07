@@ -2,8 +2,8 @@
 ### Accelerating Diagnosis Through NLP-Driven Text Classificiation of Medical Notes
 
 Bag of Words Text Classification For Classifier Models Files Included:
-- 
-
+- bow_3_most_common.py
+- bow_3_less_common.py
 
 Neural Network Files Included:
 - neural_network_3_less_common.py (RNN for 3 less common diagnoses identified)
