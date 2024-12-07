@@ -1,5 +1,10 @@
 # DS4420-Machine Learning 2 Final Project
 ### Accelerating Diagnosis Through NLP-Driven Text Classificiation of Medical Notes
+
+Bag of Words Text Classification For Classifier Models Files Included:
+- 
+
+
 Neural Network Files Included:
 - neural_network_3_less_common.py (RNN for 3 less common diagnoses identified)
 - neural_network_top_3.py (RNN for top 3 diagnoses identified)
