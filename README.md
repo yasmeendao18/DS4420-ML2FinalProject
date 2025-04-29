@@ -12,3 +12,5 @@ Neural Network Files Included:
 Data Files Included:
 - final_df.csv (top 3 diagnosis; smaller dataset for testing)
 - rare_df.csv (3 less common diagnosis; smaller dataset used for testing)
+
+Collaborators: Emma Shek, Lilian Uong, Yasmeen Dao
